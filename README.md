@@ -1,7 +1,7 @@
-# Hi there 👋
+# Hi there 👋 I'm Sami!
 
 ## My Stack
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,nodejs,react,redux,aws,docker,postgres&theme=light)](https://skillicons.dev)
 
 
 <!--
