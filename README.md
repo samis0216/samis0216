@@ -6,6 +6,9 @@ I'm a full stack software engineer based in Los Angeles, California.
 ## My Stack
 [![My Skills](https://skillicons.dev/icons?i=js,python,nodejs,react,redux,aws,docker,postgres&theme=light)](https://skillicons.dev)
 
+## 📫 How to reach me:
+- Email: samisamman26@yahoo.com
+- LinkedIn: https://www.linkedin.com/in/sami-s-4a6a17129/
 
 <!--
 **samis0216/samis0216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
