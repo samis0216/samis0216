@@ -4,7 +4,7 @@ I'm a full stack software engineer based in Los Angeles, California.
 - 💬 Ask me about music and raves!
 
 ## My Stack
-[![My Skills](https://skillicons.dev/icons?i=js,python,nodejs,react,redux,aws,docker,postgres&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,flask,nodejs,react,redux,aws,docker,postgres,html,css)](https://skillicons.dev)
 
 ## 📫 How to reach me:
 - Email: samisamman26@yahoo.com
