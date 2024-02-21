@@ -1,4 +1,7 @@
-# Hi there 👋 I'm Sami!
+# Hi 👋 I'm Sami!
+I'm a full stack software engineer based in Los Angeles, California. 
+- 🔭 I’m currently working on Splitti, a group expense sharing site!
+- 💬 Ask me about music and raves!
 
 ## My Stack
 [![My Skills](https://skillicons.dev/icons?i=js,python,nodejs,react,redux,aws,docker,postgres&theme=light)](https://skillicons.dev)
